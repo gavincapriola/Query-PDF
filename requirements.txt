@@ -1,0 +1,6 @@
+PdfReader
+langchain
+PyPDF2
+InstructorEmbedding
+sentence_transformers
+streamlit
